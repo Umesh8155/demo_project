@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 
-const primaryColor = Color(0xffD52868);
+const primaryColor = Color(0xFF009688);
 
 showToast(String text) {
   Fluttertoast.showToast(
